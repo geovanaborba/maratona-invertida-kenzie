@@ -10,7 +10,7 @@
 * [Layout do projeto no Figma](https://www.figma.com/file/aM8m3Z61RWwGhKIg059PJT/Live-Maratona-Invertida-Kenzie?node-id=0%3A1)
 
 ### GitHub Pages
-* [Projeto no GitHub Pages](
+* [Projeto no GitHub Pages](https://geovanaborba.github.io/maratona-invertida-kenzie/)
 
 ### Instrutores
 - [Luiz Cardoso](https://www.linkedin.com/in/luiz-paulo-reis-cardoso/)
